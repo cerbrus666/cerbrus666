@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Halim Shukor or sometimes referred as Mindscape by my internet friends. I'm a Machine Learning Engineer from Kuala Lumpur</p>
+<p align="left">My name is Halim Shukor or sometimes referred as Mindscape by my internet friends. I'm a Machine Learning Engineer based in Kuala Lumpur</p>
 
 ###
 
