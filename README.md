@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Build random stuff since 13 y/o<br>📚 Keeping up with the latest SOTA AI/ML technology</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
